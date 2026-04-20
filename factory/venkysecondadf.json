@@ -1,0 +1,9 @@
+{
+	"name": "venkysecondadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "36f389cb-5703-4703-bd66-1b17f88f8e45",
+		"tenantId": "7fb5aafa-b2a4-4a8f-8020-4483f7d75a86"
+	}
+}
